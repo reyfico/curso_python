@@ -14,4 +14,13 @@ valor = True
 print(valor)
 print(type(valor))
 
+print("-----------------\n")
+
+num1=10
+num2=6.7
+
+suma=num1+num2
+print(suma)
+
+
 
