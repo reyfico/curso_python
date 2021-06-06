@@ -14,6 +14,7 @@ valor = True
 print(valor)
 print(type(valor))
 
+
 print("-----------------\n")
 
 num1=10
